@@ -1,2 +1,3 @@
 # entropytest
 test
+wtf
